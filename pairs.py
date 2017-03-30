@@ -17,8 +17,8 @@ allocate different amounts of the cash in portfolio used for executing the strat
 Optimum values were achieved by allocating 50% of available cash for each
 cointegrated pair and gathering 15 days of history.
 
-Running a backtest from 1/1/2010 - 3/21/2017 with $1,000,000 in capital
-yields returns of 16.5%, a Beta of -0.04, an Alpha of 0.03 and a Sharpe ratio of 0.26.
+Running a backtest from 1/1/2010 - 3/28/2017 with $1,000,000 in capital
+yields returns of 16.6%, a Beta of -0.04, an Alpha of 0.03 and a Sharpe ratio of 0.26.
 """
 
 from statsmodels.tsa.stattools import adfuller
